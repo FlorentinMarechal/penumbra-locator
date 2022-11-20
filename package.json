@@ -17,5 +17,8 @@
     "url": "https://github.com/FlorentinMarechal/penumbra-locator/issues"
   },
   "homepage": "https://github.com/FlorentinMarechal/penumbra-locator#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "pokemon": "^2.3.3"
+  }
 }
