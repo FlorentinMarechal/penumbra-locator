@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/FlorentinMarechal/penumbra-locator/issues"
   },
-  "homepage": "https://github.com/FlorentinMarechal/penumbra-locator#readme"
+  "homepage": "https://github.com/FlorentinMarechal/penumbra-locator#readme",
+  "type": "module"
 }
