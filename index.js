@@ -3,10 +3,10 @@ import fs from 'fs'
 try {
   const filePath = new URL('./wildEncounters.txt', import.meta.url);
   const contents = await readFile(filePath, { encoding: 'utf8' });
-  const splitContent = contents.split('Table')
-  console.log(splitContent.length);
+  const splitContent = contents.split(/(Table|==========)/gm)
+  console.log(splitContent.length < 1 ? `Valide, ${splitContent.length} élements.` : `Invalide`);
   const locationArray = [];
-  const pokemon = "Baltoy";
+  const pokemon = "Abra";
 
   splitContent.forEach(element => {
     if (element.includes('Map')){
