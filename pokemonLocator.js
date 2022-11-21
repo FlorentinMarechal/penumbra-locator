@@ -7,7 +7,7 @@ try {
   const splitContent = contents.split(/(Table|==========)/gm)
   console.log(splitContent.length > 1 ? `Valide, ${splitContent.length} élements.` : `Invalide`);
   const locationArray = [];
-  const chosedPokemon = "Étourmi";
+  const chosedPokemon = "Piafabec";
   const pokemonId = pokemon.getId(chosedPokemon, 'fr');
   console.log(pokemonId ? `ID du pokemon: ${pokemonId}` : `ID introuvale`);
   const englishPokemonName = pokemon.getName(pokemonId)
@@ -18,9 +18,11 @@ try {
     }
     if (element.includes(englishPokemonName)){
       locationArray.push(element);
+      console.log(element);
     }
   })
-  fs.writeFile(`${chosedPokemon}-${englishPokemonName}.txt`, `${locationArray.toString()}`, function (err) {
+  const text = locationArray.join("============\n")
+  fs.writeFile(`${chosedPokemon}-${englishPokemonName}.txt`, text, function (err) {
     if (err) return console.log(err);
     console.log(`'${chosedPokemon}-${englishPokemonName}.txt' crée avec succès.`);
   });

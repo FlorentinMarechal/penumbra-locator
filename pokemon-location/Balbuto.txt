@@ -1,0 +1,1463 @@
+
+Map: 000 - Route 1 (Hau’oli Outskirts) / 003 - Route 1 / 010 - Melemele Sea
+============
+
+Map: 001 - Route 1 (Hau’oli Outskirts) / 005 - Route 1
+============
+
+Map: 002 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 004 - Route 1
+============
+
+Map: 006 - Route 3 / 008 - Kala’e Bay
+============
+
+Map: 007 - Route 2
+============
+
+Map: 009 - Melemele Sea / 012 - Hau’oli City (Beachfront)
+============
+
+Map: 011 - Big Wave Beach
+============
+
+Map: 013 - Hau’oli City (Shopping District) / 014 - Hau’oli City (Marina)
+============
+
+Map: 015 - Hau’oli City (Marina)
+============
+
+Map: 016 - Iki Town
+============
+
+Map: 017 - Iki Town
+============
+
+Map: 018 - Iki Town
+============
+
+Map: 019 - Mahalo Trail
+============
+
+Map: 020 - Mahalo Trail (Plank Bridge)
+============
+
+Map: 021 - Mahalo Trail (Plank Bridge)
+============
+
+Map: 022 - Ruins of Conflict
+============
+
+Map: 023 - Ruins of Conflict
+============
+
+Map: 024 - Ruins of Conflict
+============
+
+Map: 025 - Ruins of Conflict
+============
+
+Map: 026 - Ten Carat Hill
+============
+
+Map: 027 - Ten Carat Hill (Farthest Hollow)
+============
+
+Map: 028 - Hau’oli Cemetery
+============
+
+Map: 029 - Melemele Meadow
+============
+
+Map: 030 - Seaward Cave
+============
+
+Map: 031 - Berry Fields
+============
+
+Map: 032 - Sandy Cave
+============
+
+Map: 033 - Verdant Cavern (Trial Site)
+============
+
+Map: 034 - Verdant Cavern (Totem’s Den)
+============
+
+Map: 035 - Route 1 (Hau’oli Outskirts) / 036 - Route 1 (Hau’oli Outskirts) / 037 - Route 1 (Hau’oli Outskirts) / 038 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 039 - Iki Town / 040 - Iki Town / 041 - Iki Town / 042 - Iki Town
+============
+
+Map: 043 - Iki Town
+============
+
+Map: 044 - Iki Town
+============
+
+Map: 045 - Iki Town
+============
+
+Map: 046 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 047 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 048 - Hau’oli City (Shopping District)
+============
+
+Map: 049 - Route 2 / 050 - Route 2
+============
+
+Map: 051 - Hau’oli City (Shopping District) / 052 - Hau’oli City (Shopping District) / 053 - Hau’oli City (Shopping District)
+============
+
+Map: 054 - Berry Fields
+============
+
+Map: 055 - Route 1 (Trainers’ School)
+============
+
+Map: 056 - Route 1 (Trainers’ School)
+============
+
+Map: 057 - Route 1 (Trainers’ School)
+============
+
+Map: 058 - Route 1 (Trainers’ School)
+============
+
+Map: 059 - Route 1 (Trainers’ School)
+============
+
+Map: 060 - Route 1 (Trainers’ School)
+============
+
+Map: 061 - Route 1 (Trainers’ School)
+============
+
+Map: 062 - Route 1 (Trainers’ School)
+============
+
+Map: 063 - Hau’oli City (Shopping District)
+============
+
+Map: 064 - Hau’oli City (Shopping District)
+============
+
+Map: 065 - Hau’oli City (Shopping District)
+============
+
+Map: 066 - Hau’oli City (Shopping District)
+============
+
+Map: 067 - Hau’oli City (Shopping District)
+============
+
+Map: 068 - Hau’oli City (Marina)
+============
+
+Map: 069 - Hau’oli City (Marina)
+============
+
+Map: 070 - Hau’oli City (Shopping District)
+============
+
+Map: 071 - Hau’oli City (Shopping District)
+============
+
+Map: 072 - Route 2
+============
+
+Map: 073 - Route 2
+============
+
+Map: 074 - Hau’oli City (Shopping District)
+============
+
+Map: 075 - Hau’oli City (Shopping District)
+============
+
+Map: 076 - Hau’oli City (Shopping District)
+============
+
+Map: 077 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 078 - Hau’oli City (Shopping District)
+============
+
+Map: 079 - Route 2
+============
+
+Map: 080 - Route 4
+============
+
+Map: 081 - Route 5
+============
+
+Map: 082 - Route 6
+============
+
+Map: 083 - Route 7
+============
+
+Map: 084 - Route 8
+============
+
+Map: 085 - Route 9
+============
+
+Map: 086 - Hano Grand Resort / 087 - Hano Beach
+============
+
+Map: 088 - Heahea Beach
+============
+
+Map: 089 - Paniola Town
+============
+
+Map: 090 - Heahea City
+============
+
+Map: 091 - Konikoni City
+============
+
+Map: 092 - Royal Avenue
+============
+
+Map: 093 - Dividing Peak Tunnel
+============
+
+Map: 094 - Ruins of Life
+============
+
+Map: 095 - Ruins of Life
+============
+
+Map: 096 - Ruins of Life
+============
+
+Map: 097 - Memorial Hill / 098 - Akala Outskirts
+============
+ 1 (Day):
+Encounters (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 1 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Exagide (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 2 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 3 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 4 (Levels 46-49): Muciole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 5 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 6 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 7 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+Additional SOS encounters: (None)
+
+============
+ 1 (Night):
+Encounters (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 1 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Exagide (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 2 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 3 (Levels 46-49): Muciole (10%), Kaorine (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Sidérella (10%), Brocélôme (10%), Ectoplasma (10%)
+SOS Slot 4 (Levels 46-49): Muciole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Dimoclès (10%), Spoink (10%), Lugulabre (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 5 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 6 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+SOS Slot 7 (Levels 46-49): Lumivole (10%), Balbuto (10%), Gringolem (10%), Spiritomb (10%), Monorpale (10%), Spoink (10%), Mélancolux (10%), Mesmérella (10%), Brocélôme (10%), Spectrum (10%)
+Additional SOS encounters: (None)
+
+============
+
+Map: 099 - Taupiqueur’s Tunnel
+============
+
+Map: 100 - Wela Volcano Park
+============
+
+Map: 101 - Wela Volcano Park (Totem’s Den)
+============
+
+Map: 102 - Brooklet Hill / 103 - Brooklet Hill
+============
+
+Map: 104 - Brooklet Hill (Totem’s Den)
+============
+
+Map: 105 - Lush Jungle
+============
+
+Map: 106 - Lush Jungle
+============
+
+Map: 107 - Lush Jungle
+============
+
+Map: 108 - Lush Jungle
+============
+
+Map: 109 - Lush Jungle
+============
+
+Map: 110 - Paniola Town / 111 - Paniola Town / 112 - Paniola Town / 113 - Paniola Town
+============
+
+Map: 114 - Konikoni City / 115 - Konikoni City
+============
+
+Map: 116 - Konikoni City / 117 - Konikoni City / 118 - Konikoni City / 119 - Konikoni City
+============
+
+Map: 120 - Konikoni City / 121 - Konikoni City / 122 - Konikoni City
+============
+
+Map: 123 - Heahea City
+============
+
+Map: 124 - Heahea City
+============
+
+Map: 125 - Heahea City
+============
+
+Map: 126 - Heahea City
+============
+
+Map: 127 - Heahea City
+============
+
+Map: 128 - Heahea City
+============
+
+Map: 129 - Heahea City
+============
+
+Map: 130 - Heahea City
+============
+
+Map: 131 - Heahea City / 132 - Heahea City / 133 - Heahea City
+============
+
+Map: 134 - Heahea City
+============
+
+Map: 135 - Heahea City
+============
+
+Map: 136 - Heahea City
+============
+
+Map: 137 - Heahea City
+============
+
+Map: 138 - Route 8
+============
+
+Map: 139 - Hano Grand Resort
+============
+
+Map: 140 - Royal Avenue
+============
+
+Map: 141 - Route 8
+============
+
+Map: 142 - Route 8
+============
+
+Map: 143 - Royal Avenue
+============
+
+Map: 144 - Konikoni City
+============
+
+Map: 145 - Konikoni City
+============
+
+Map: 146 - Route 9
+============
+
+Map: 147 - Battle Royal Dome
+============
+
+Map: 148 - Route 8
+============
+
+Map: 149 - Paniola Ranch
+============
+
+Map: 150 - Paniola Ranch
+============
+
+Map: 151 - Paniola Ranch
+============
+
+Map: 152 - Heahea City
+============
+
+Map: 153 - Konikoni City
+============
+
+Map: 154 - Konikoni City
+============
+
+Map: 155 - Royal Avenue
+============
+
+Map: 156 - Heahea City
+============
+
+Map: 157 - Pikachu Valley
+============
+
+Map: 158 - Heahea City
+============
+
+Map: 159 - Royal Avenue
+============
+
+Map: 160 - Route 8
+============
+
+Map: 161 - Konikoni City
+============
+
+Map: 162 - Paniola Town
+============
+
+Map: 163 - Route 5
+============
+
+Map: 164 - Route 10
+============
+
+Map: 165 - Route 11
+============
+
+Map: 166 - Ula’ula Beach
+============
+
+Map: 167 - Route 13
+============
+
+Map: 168 - Tapu Village / 169 - Route 14
+============
+
+Map: 170 - Route 15 / 171 - Route 16
+============
+
+Map: 172 - Route 17
+============
+
+Map: 173 - Route 12
+============
+
+Map: 174 - Malie City / 175 - Malie City (Outer Cape)
+============
+
+Map: 176 - Po Town
+============
+
+Map: 177 - Haina Desert / 178 - Haina Desert / 179 - Haina Desert / 180 - Haina Desert
+============
+ 1 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 1 (Night):
+Encounters (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 1 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 2 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 3 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 4 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 5 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%)
+SOS Slot 7 (Levels 65-68): Escroco (70%), Triopikeur (Forme 1) (30%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 2 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 2 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 3 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 3 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 4 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 4 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 5 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 5 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 6 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 6 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 7 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 7 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 8 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 8 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 9 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 9 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 10 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 10 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+
+Map: 181 - Haina Desert / 182 - Haina Desert / 183 - Haina Desert / 184 - Haina Desert
+============
+ 1 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 1 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 2 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 2 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 3 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 3 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 4 (Day):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 4 (Night):
+Encounters (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 1 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 2 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 3 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 4 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippodocus (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 5 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+SOS Slot 6 (Levels 65-68): Gringolem (50%), Balbuto (50%)
+SOS Slot 7 (Levels 65-68): Gringolem (10%), Gravalanch (10%), Maracachi (10%), Cacturne (10%), Cryptéro (10%), Hippopotas (10%), Carmache (10%), Balbuto (10%), Triopikeur (Forme 1) (10%), Escroco (10%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 5 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 5 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 6 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 6 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 7 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 7 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 8 (Day):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+ 8 (Night):
+Encounters (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 1 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 2 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 3 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 4 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 5 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+SOS Slot 6 (Levels 65-68): Balbuto (100%), (None) (0%)
+SOS Slot 7 (Levels 65-68): Kraknoix (60%), Triopikeur (Forme 1) (20%), Escroco (20%), (None) (0%)
+Additional SOS encounters: Morphéo, Carmache
+
+============
+
+Map: 185 - Ula’ula Meadow
+============
+
+Map: 186 - Malie Garden
+============
+
+Map: 187 - Mount Hokulani
+============
+
+Map: 188 - Blush Mountain
+============
+
+Map: 189 - Ruins of Abundance
+============
+
+Map: 190 - Ruins of Abundance
+============
+
+Map: 191 - Ruins of Abundance
+============
+
+Map: 192 - Lake of the Sunne
+============
+
+Map: 193 - Lake of the Sunne
+============
+
+Map: 194 - Lake of the Sunne
+============
+
+Map: 195 - Lake of the Sunne
+============
+
+Map: 196 - Lake of the Moone
+============
+
+Map: 197 - Lake of the Moone
+============
+
+Map: 198 - Lake of the Moone
+============
+
+Map: 199 - Lake of the Moone
+============
+
+Map: 200 - Mount Lanakila
+============
+
+Map: 201 - Mount Lanakila
+============
+
+Map: 202 - Mount Lanakila
+============
+
+Map: 203 - Mount Lanakila
+============
+
+Map: 204 - Mount Lanakila
+============
+
+Map: 205 - Mount Lanakila
+============
+
+Map: 206 - Mount Lanakila
+============
+
+Map: 207 - Mount Lanakila
+============
+
+Map: 208 - Shady House
+============
+
+Map: 209 - Shady House
+============
+
+Map: 210 - Shady House
+============
+
+Map: 211 - Shady House
+============
+
+Map: 212 - Shady House
+============
+
+Map: 213 - Shady House
+============
+
+Map: 214 - Shady House
+============
+
+Map: 215 - Shady House
+============
+
+Map: 216 - Shady House
+============
+
+Map: 217 - Shady House
+============
+
+Map: 218 - Shady House
+============
+
+Map: 219 - Shady House
+============
+
+Map: 220 - Thrifty Megamart (Abandoned Site)
+============
+
+Map: 221 - Thrifty Megamart (Abandoned Site)
+============
+
+Map: 222 - Thrifty Megamart (Abandoned Site)
+============
+
+Map: 223 - Malie City
+============
+
+Map: 224 - Malie City
+============
+
+Map: 225 - Malie City
+============
+
+Map: 226 - Malie City
+============
+
+Map: 227 - Malie City / 228 - Malie City
+============
+
+Map: 229 - Malie City
+============
+
+Map: 230 - Malie City
+============
+
+Map: 231 - Malie City
+============
+
+Map: 232 - Malie City
+============
+
+Map: 233 - Malie City
+============
+
+Map: 234 - Route 15 / 235 - Route 15 / 236 - Route 15
+============
+
+Map: 237 - Route 13
+============
+
+Map: 238 - Route 13
+============
+
+Map: 239 - Route 17
+============
+
+Map: 240 - Route 16
+============
+
+Map: 241 - Route 16
+============
+
+Map: 242 - Hokulani Observatory
+============
+
+Map: 243 - Hokulani Observatory
+============
+
+Map: 244 - Hokulani Observatory
+============
+
+Map: 245 - Hokulani Observatory
+============
+
+Map: 246 - Blush Mountain
+============
+
+Map: 247 - Malie City (Outer Cape)
+============
+
+Map: 248 - Route 15
+============
+
+Map: 249 - Route 13
+============
+
+Map: 250 - Route 13
+============
+
+Map: 251 - Pokémon League
+============
+
+Map: 252 - Pokémon League
+============
+
+Map: 253 - Pokémon League
+============
+
+Map: 254 - Pokémon League
+============
+
+Map: 255 - Pokémon League
+============
+
+Map: 256 - Pokémon League
+============
+
+Map: 257 - Pokémon League
+============
+
+Map: 258 - Malie City
+============
+
+Map: 259 - Tapu Village
+============
+
+Map: 260 - Po Town
+============
+
+Map: 261 - Route 16
+============
+
+Map: 262 - Mount Lanakila
+============
+
+Map: 263 - Mount Hokulani
+============
+
+Map: 264 - Poni Wilds
+============
+
+Map: 265 - Ancient Poni Path / 266 - Poni Breaker Coast
+============
+
+Map: 267 - Poni Grove
+============
+
+Map: 268 - 	
+============
+
+Map: 269 - Poni Coast
+============
+
+Map: 270 - Poni Gauntlet
+============
+
+Map: 271 - Poni Beach
+============
+
+Map: 272 - Seafolk Village
+============
+
+Map: 273 - Poni Meadow
+============
+
+Map: 274 - Vast Poni Canyon
+============
+
+Map: 275 - Vast Poni Canyon
+============
+
+Map: 276 - Vast Poni Canyon
+============
+
+Map: 277 - Vast Poni Canyon
+============
+
+Map: 278 - Vast Poni Canyon
+============
+
+Map: 279 - Vast Poni Canyon
+============
+
+Map: 280 - Altar of the Sunne
+============
+
+Map: 281 - Altar of the Sunne
+============
+
+Map: 282 - Altar of the Moone
+============
+
+Map: 283 - Altar of the Moone
+============
+
+Map: 284 - Ruins of Hope
+============
+
+Map: 285 - Ruins of Hope
+============
+
+Map: 286 - Ruins of Hope
+============
+
+Map: 287 - Resolution Cave
+============
+
+Map: 288 - Resolution Cave
+============
+
+Map: 289 - Resolution Cave
+============
+
+Map: 290 - Noadkoko Island
+============
+
+Map: 291 - Plains Grotto
+============
+
+Map: 292 - Seafolk Village
+============
+
+Map: 293 - Seafolk Village / 294 - Seafolk Village
+============
+
+Map: 295 - Seafolk Village
+============
+
+Map: 296 - Seafolk Village
+============
+
+Map: 297 - Ancient Poni Path / 298 - Ancient Poni Path
+============
+
+Map: 299 - Seafolk Village
+============
+
+Map: 300 - Battle Tree
+============
+
+Map: 301 - Battle Tree
+============
+
+Map: 302 - Battle Tree
+============
+
+Map: 303 - Battle Tree
+============
+
+Map: 304 - Aether Paradise
+============
+
+Map: 305 - Aether Paradise
+============
+
+Map: 306 - Aether Paradise
+============
+
+Map: 307 - Aether Paradise
+============
+
+Map: 308 - Aether Paradise
+============
+
+Map: 309 - Aether Paradise
+============
+
+Map: 310 - Aether Paradise
+============
+
+Map: 311 - Aether Paradise
+============
+
+Map: 312 - Aether Paradise
+============
+
+Map: 313 - Aether Paradise
+============
+
+Map: 314 - Aether Paradise
+============
+
+Map: 315 - Aether Paradise
+============
+
+Map: 316 - Aether Paradise
+============
+
+Map: 317 - Aether Paradise
+============
+
+Map: 318 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 319 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 320 - Route 1 (Hau’oli Outskirts)
+============
+
+Map: 321 - Ultra Deep Sea
+============
+
+Map: 322 - Ultra Megalopolis
+============
+
+Map: 323 - Ultra Megalopolis
+============
+
+Map: 324 - Megalo Tower
+============
+
+Map: 325 - Megalo Tower
+============
+
+Map: 326 - Ultra Plant
+============
+
+Map: 327 - Ultra Crater
+============
+
+Map: 328 - Ultra Desert
+============
+
+Map: 329 - Ultra Forest
+============
+
+Map: 330 - Ultra Jungle
+============
+
+Map: 331 - Ultra Ruin
+============
+
+Map: 332 - Ultra Ruin
+============
+
+Map: 333 - Ultra Space Wilds
+============
+
+Map: 334 - Ultra Space Wilds
+============
+
+Map: 335 - Ultra Space Wilds
+============
+
+Map: 336 - Ultra Space Wilds
+============
+
+Map: 337 - Aether Paradise
+============
+
+Map: 338 - Team Rocket’s Castle
+============
+
+Map: 339 - Team Rocket’s Castle
+============
+
+Map: 340 - Team Rocket’s Castle
+============
+
+Map: 341 - Team Rocket’s Castle
+============
+
+Map: 342 - Team Rocket’s Castle
+============
+
+Map: 343 - Team Rocket’s Castle
+============
+
+Map: 344 - Team Rocket’s Castle
+============
+
+Map: 345 - Team Rocket’s Castle
+============
+
+Map: 346 - Team Rocket’s Castle
+============
+
+Map: 347 - Team Rocket’s Castle
+============
+
+Map: 348 - Team Rocket’s Castle
+============
+
+Map: 349 - Team Rocket’s Castle
+============
+
+Map: 350 - Team Rocket’s Castle
+============
+
+Map: 351 - Team Rocket’s Castle
+============
+
+Map: 352 - Team Rocket’s Castle
+============
+
+Map: 353 - Team Rocket’s Castle
+============
+
+Map: 354 - Team Rocket’s Castle
+============
+
+Map: 355 - Team Rocket’s Castle
+============
+
+Map: 356 - Team Rocket’s Castle
+============
+
+Map: 357 - Team Rocket’s Castle
+============
+
+Map: 358 - Team Rocket’s Castle
+============
+
+Map: 359 - Team Rocket’s Castle
+============
+
+Map: 360 - Team Rocket’s Castle
+============
+
+Map: 361 - Team Rocket’s Castle
+============
+
+Map: 362 - Team Rocket’s Castle
+============
+
+Map: 363 - Team Rocket’s Castle
+============
+
+Map: 364 - Team Rocket’s Castle
+============
+
+Map: 365 - Team Rocket’s Castle
+============
+
+Map: 366 - Team Rocket’s Castle
+============
+
+Map: 367 - Team Rocket’s Castle
+============
+
+Map: 368 - Team Rocket’s Castle
+============
+
+Map: 369 - Team Rocket’s Castle
+============
+
+Map: 370 - Team Rocket’s Castle
+============
+
+Map: 371 - Team Rocket’s Castle
+============
+
+Map: 372 - Team Rocket’s Castle
+============
+
+Map: 373 - Team Rocket’s Castle
+============
+
+Map: 374 - Team Rocket’s Castle
+============
+
+Map: 375 - Team Rocket’s Castle
+============
+
+Map: 376 - Team Rocket’s Castle
+============
+
+Map: 377 - Team Rocket’s Castle
+============
+
+Map: 378 - Team Rocket’s Castle
+============
+
+Map: 379 - Team Rocket’s Castle

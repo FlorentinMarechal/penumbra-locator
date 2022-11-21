@@ -8,9 +8,8 @@ try {
   if(englishPokemonNames < 500) console.log('Liste pokemon imcomplète');
 //   console.log(englishPokemonNames);
   console.log(`${englishPokemonNames.length} pokemon trouvés`);
-  let frenchContents = contents
-  frenchContents.replaceAll("Yungoos", "Manglouton")  
-  
+  let frenchContents = contents;
+ 
   for (const englishPokemonName of englishPokemonNames) {
     const pokemonId = pokemon.getId(englishPokemonName);
     // console.log(`${englishPokemonName} ID: `,pokemonId);
@@ -25,26 +24,6 @@ try {
     console.log(`'penumbra-moon-location-fr.txt' crée avec succès.`);
   });
 
-
-//   const splitContent = contents.split(/(Table|==========)/gm)
-//   console.log(splitContent.length > 1 ? `Valide, ${splitContent.length} élements.` : `Invalide`);
-
-  
-//   console.log(pokemonId ? `ID du pokemon: ${pokemonId}` : `ID introuvale`);
-//   const englishPokemonName = pokemon.getName(pokemonId)
-//   console.log(englishPokemonName ? `Nom anglais: ${englishPokemonName}` : `Erreur de traduction`);
-//   splitContent.forEach(element => {
-//     if (element.includes('Map')){
-//       locationArray.push(element);
-//     }
-//     if (element.includes(englishPokemonName)){
-//       locationArray.push(element);
-//     }
-//   })
-//   fs.writeFile(`${chosedPokemon}-${englishPokemonName}.txt`, `${locationArray.toString()}`, function (err) {
-//     if (err) return console.log(err);
-//     console.log(`'${chosedPokemon}-${englishPokemonName}.txt' crée avec succès.`);
-//   });
 } catch (err) {
   console.error(err.message);
 }
